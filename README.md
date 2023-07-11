@@ -3,8 +3,10 @@
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vbernado/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-bernardo-89073b247/)
 
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorBernado&show_icons=true&theme=blueberry),<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBernado&size_weight=0.5&count_weight=0.5)
+<div>
+   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+   <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBernado&layout=compact&langs_count=16&theme=blueberry"/>
+</div>
 
 ### Tecnologias que uso no meu dia!
 
