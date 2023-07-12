@@ -4,8 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-bernardo-89073b247/)
 
 <div>
-   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorBernado&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-   <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBernado&layout=compact&langs_count=16&theme=blueberry"/>
+   <img height="180em" float="left" src="https://github-readme-stats.vercel.app/api?username=VitorBernado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBernado&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### Tecnologias que uso no meu dia!
